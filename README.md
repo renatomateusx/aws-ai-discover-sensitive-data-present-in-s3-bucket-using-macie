@@ -4,9 +4,8 @@
 
 * 1 - Sign in to AWS Management Console.
 * 2 - Enable Macie for the account.
-* 3 - Create a Macie job.
+* 3 - Create a Macie job. (Assign the S3 Bucket)
 * 4 - Macie job run and findings.
-* 5 - Validation of the lab.
 
 # Project Arch
 ![macie_project_arch](https://github.com/renatomateusx/aws-ai-discover-sensitive-data-present-in-s3-bucket-using-macie/assets/4579323/d4d25c5f-1d90-4a16-90bd-ac64a095cdb3)
