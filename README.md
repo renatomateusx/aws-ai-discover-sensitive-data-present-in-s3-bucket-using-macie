@@ -1,4 +1,4 @@
-[export-2024-03-11T19_52_51Z.json](https://github.com/renatomateusx/aws-ai-discover-sensitive-data-present-in-s3-bucket-using-macie/files/14563949/export-2024-03-11T19_52_51Z.json)#  Project made to improve skills with focus on Machine Learning using macie for detecting sensitive data inside S3 Buckets
+# Project made to improve skills with focus on Machine Learning using macie for detecting sensitive data inside S3 Buckets
 
 # Task Details
 
